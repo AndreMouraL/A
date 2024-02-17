@@ -34,3 +34,5 @@ Sinta-se à vontade para enviar pull requests e sugestões para melhorar este pr
 ## Licença
 
 Este projeto está licenciado sob a Licença MIT - consulte o arquivo [LICENSE](LICENSE) para obter detalhes.
+
+Banco de Dados + configurar Feedback.
