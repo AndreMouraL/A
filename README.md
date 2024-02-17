@@ -35,5 +35,5 @@ Sinta-se à vontade para enviar pull requests e sugestões para melhorar este pr
 
 Este projeto está licenciado sob a Licença MIT - consulte o arquivo [LICENSE](LICENSE) para obter detalhes.
 
-Banco de Dados + configurar Feedback.
+Banco de Dados java + configurar Feedback PHP.
 Hospedagem: se encontrar no https://www.netlify.com/.
